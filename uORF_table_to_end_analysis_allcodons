@@ -1,0 +1,10 @@
+Rscript ~/uORF_table_to_end_analysis_script.R ATG
+Rscript ~/uORF_table_to_end_analysis_script.R CTG
+Rscript ~/uORF_table_to_end_analysis_script.R TTG
+Rscript ~/uORF_table_to_end_analysis_script.R GTG
+Rscript ~/uORF_table_to_end_analysis_script.R ATA
+Rscript ~/uORF_table_to_end_analysis_script.R ATC
+Rscript ~/uORF_table_to_end_analysis_script.R ATT
+Rscript ~/uORF_table_to_end_analysis_script.R AAG
+Rscript ~/uORF_table_to_end_analysis_script.R AGG
+Rscript ~/uORF_table_to_end_analysis_script.R ACG
