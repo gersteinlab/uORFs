@@ -2,11 +2,7 @@
 layout: default
 ---
 
-test
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page).
+[Supplemental Data Files] (https://www.dropbox.com/s/b15jmgf20dmdzon/Supplemental_Data_Tables.xlsx?dl=1).
 
 There should be whitespace between paragraphs.
 
