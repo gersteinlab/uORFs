@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ![](https://github.com/gersteinlab/uORFs/blob/gh-pages/uORFs__homepage.jpg)
 
 Download our supplemental data file:
