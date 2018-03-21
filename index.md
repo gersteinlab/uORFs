@@ -100,7 +100,7 @@ end
 
 ### Large image
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+![](https://github.com/gersteinlab/uORFs/blob/gh-pages/uORFs__homepage.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
