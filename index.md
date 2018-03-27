@@ -1,6 +1,8 @@
+<kbd>
 <p align="center">
   <img src="https://github.com/gersteinlab/uORFs/raw/gh-pages/uORFs__homepage.jpg">
 </p>
+</kbd>
 
 Download our supplemental data file:
 
