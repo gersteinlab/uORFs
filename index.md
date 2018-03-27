@@ -6,5 +6,5 @@ Download our supplemental data file:
 
 Download a complete list of uORF predictions:
 
-[Complete list of predictions](https://www.dropbox.com/s/b15jmgf20dmdzon/Supplemental_Data_Tables.xlsx?dl=1).
+[Complete list of predictions](https://www.dropbox.com/s/kwae71njbtrhsni/complete_uORF_predictions_hg19.zip?dl=1).
 
