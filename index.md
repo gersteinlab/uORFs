@@ -1,4 +1,6 @@
-![](https://github.com/gersteinlab/uORFs/raw/gh-pages/uORFs__homepage.jpg)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/gersteinlab/uORFs/raw/gh-pages/uORFs__homepage.jpg">
+</p>
 
 Download our supplemental data file:
 
