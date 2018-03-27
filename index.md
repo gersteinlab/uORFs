@@ -1,4 +1,4 @@
-![alt text](https://github.com/gersteinlab/uORFs/raw/gh-pages/uORFs__homepage.jpg "Logo Title Text 1")
+![](https://github.com/gersteinlab/uORFs/raw/gh-pages/uORFs__homepage.jpg)
 
 Download our supplemental data file:
 
