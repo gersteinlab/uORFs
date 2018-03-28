@@ -1,2 +1,0 @@
-cd ~/
-sh uorf_stats_table.bash ATG ~/ribosome_profiling/novelhuman_uORFs_paper_Fritschetal2012/UCSCBrowser_identifiedTISs/fritsch_ATG_uORF_IDs ~/ribosome_profiling/globalmapping_uORFs_paper_Leeetal2012/lee_ATG_uORF_IDs
