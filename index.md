@@ -12,5 +12,5 @@ Download a complete list of uORF predictions:
 
 View the publication:
 
-[Patrick McGillivray, Russell Ault, Mayur Pawashe, Robert Kitchen, Suganthi Balasubramanian, Mark Gerstein; A comprehensive catalog of predicted functional upstream open reading frames in humans, Nucleic Acids Research.](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky188/4942470)
+[Patrick McGillivray, Russell Ault, Mayur Pawashe, Robert Kitchen, Suganthi Balasubramanian, Mark Gerstein; <u>A comprehensive catalog of predicted functional upstream open reading frames in humans</u>, Nucleic Acids Research.](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky188/4942470)
 PMID: [29562350](https://www.ncbi.nlm.nih.gov/pubmed/29562350)
